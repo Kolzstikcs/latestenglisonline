@@ -1,0 +1,110 @@
+.one{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    left: 8px;
+    top: 30px;
+}
+
+.class1,
+.class2
+{
+  position: absolute;
+  transform: scale(0.0);
+  -moz-transition:.2s ease-in-out ;
+  transition: .2s ease-in-out;
+  top: -80px;
+  left: 90px;
+}
+
+  
+
+
+
+.Table4_A1Select1,
+.Table4_A1Select2,
+.Table4_A1Select3,
+.Table4_A1Select4,
+.Table4_A1Select5,
+.Table4_A1Select6,
+.Table4_A1Select7,
+.Table4_A1Select8,
+.Table4_A1Select9,
+.Table4_A1Select10,
+.Table4_A1Select11,
+.Table4_A1Select12,
+.Table4_A1Select13,
+.Table4_A1Select14,
+.Table4_A1Select15,
+.Table4_A1Select16,
+.Table4_A1Select17,
+.Table4_A1Select18,
+.Table4_A1Select19,
+.Table4_A1Select20,
+.Table4_A1Select21,
+.Table4_A1Select22,
+.Table4_A1Select23,
+.Table4_A1Select24,
+.Table4_A1Select25,
+.Table4_A1Select26,
+.Table4_A1Select27,
+.Table4_A1Select28,
+.Table4_A1Select29,
+.Table4_A1Select30,
+.Table4_A1Select31,
+.Table4_A1Select32,
+.Table4_A1Select33,
+.Table4_A1Select34,
+.Table4_A1Select35,
+.Table4_A1Select36,
+.Table4_A1Select37,
+.Table4_A1Select38,
+.Table4_A1Select39,
+.Table4_A1Select40,
+.Table4_A1Select41,
+.Table4_A1Select42{
+    position: relative;
+}
+
+.shower{
+    transform: scale(1.0);
+}
+
+@media screen and (max-width: 768px){
+   
+  .class1,
+  .class2,
+  .class3,
+  .class4,
+.class5,
+.class6,
+.class7,
+.class8,
+.class9,
+.class10,
+.class11,
+.class12,
+.class13,
+.class14,
+.class15,
+.class16,
+.class17,
+.class18,
+.class19,
+.class20,
+.class21,
+.class22,
+.class23,
+.class24{
+    position: absolute;
+    transform: scale(0.0);
+    -moz-transition:.2s ease-in-out ;
+    transition: .2s ease-in-out;
+    top: -80px;
+    left: 30px;
+  }
+  
+    .shower{
+      transform: scale(1.0);
+  }
+}

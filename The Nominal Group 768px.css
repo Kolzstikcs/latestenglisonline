@@ -1,0 +1,424 @@
+@media screen and (max-width: 768px) {
+  
+  
+    @import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+ 
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,500;1,400&display=swap');
+
+
+
+    .P4{
+font-size: 14px;
+
+    }
+    
+    
+    .T3A{
+        font-size: 20px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: bold;
+        color: #00a179;
+        text-decoration: none;
+    }
+    .Standard {
+        font-size: 16px;
+        font-family:  'Averia Serif Libre', cursive ;
+        writing-mode: horizontal-tb;
+        direction: 5px;
+        margin-bottom: 10px;
+        line-height: 100%;
+        text-align: justify ! important;
+    }
+    .Standardize{
+        font-size: 20px;
+        font-family:'Averia Serif Libre', cursive ;
+        writing-mode: horizontal-tb;
+        direction: 5px;
+        margin-bottom: 10px;
+        line-height: 100%;
+        text-align: justify ! important;
+        color: #001d3f;
+        
+       
+    }
+    .StandardLead{
+        font-size: 16px;
+        font-family: Arial ;
+        font-weight: 600;
+        writing-mode: horizontal-tb;
+        direction: 5px;
+        margin-bottom: 10px;
+        line-height: 100%;
+        text-align: justify ! important;
+        color: #fff;
+    background-color: #00beb5;
+    padding: auto auto;
+    border-radius: 5px;
+    border-left: 5px solid black;
+    }
+
+    .FirstDefault{
+        font-family: arial;
+        color: #00312f;
+    }
+    .sub-headers{
+        font-size: 18px;
+        line-height: 100%;
+        margin-bottom: 10px;
+        margin-top: 50px;
+        font-weight: bold;
+        color: rgb(0, 23, 197);
+        text-align: justify ! important;
+        font-family: 'Roboto', sans-serif;
+        writing-mode: horizontal-tb;
+        direction: ltr;
+    }
+    .sub-headers1{
+        font-size: 17px;
+        line-height: 100%;
+        margin-bottom: 10px;
+        margin-top: 20px;
+        font-weight: bold;
+        color: rgb(0, 20, 212);
+        text-align: justify ! important;
+        font-family: 'Roboto', sans-serif;
+        writing-mode: horizontal-tb;
+     
+    }
+    .sub-headers-first{
+        font-size: 40px;
+        line-height: 100%;
+        margin-bottom: 40px;
+       text-align: center !important;
+        font-weight: 900;
+        color: rgb(0, 24, 46);
+        font-family: 'Roboto', sans-serif;
+        writing-mode: horizontal-tb;
+        direction: ltr;
+        
+    }
+    .table1oga{
+      overflow-x: scroll;
+    }
+    .Table1 {
+        width: 420px;
+        margin-left: 0.0035in;
+        margin-top: 0in;
+        margin-bottom: 0in;
+        margin-right: auto;
+        writing-mode: horizontal-tb;
+        direction: ltr;
+        background-color:rgb(255, 196, 86);
+        
+    }
+    .Table2 {
+        width: 420px;
+        margin-top: 0in;
+        margin-bottom: 0in;
+        margin-right: auto;
+        writing-mode: horizontal-tb;
+        direction: ltr;
+    }
+    
+    .Table3 {
+        width: 450px;
+        margin-left: 0in;
+        margin-top: 0in;
+        margin-bottom: 0in;
+        margin-right: auto;
+        writing-mode: horizontal-tb;
+        direction: ltr;
+    }
+    
+    .Table4 {
+        width: 180px;
+        margin-left: 0in;
+        margin-top: 0in;
+        margin-bottom: 0in;
+        margin-right: auto;
+        writing-mode: horizontal-tb;
+        direction: ltr;
+    }
+
+    .Table1_A1 {
+        background-color: transparent;
+        padding-left: 0.075in;
+        padding-right: 0.075in;
+        padding-top: 5px;
+        padding-bottom: 3px;
+        border-width:2px;
+        border-style: solid;
+        color: rgb(63, 57, 0);
+        border-color: #ffffff;
+      
+    }
+    
+    .Table2_A1 {
+        background-color: transparent;
+        padding-left: 0.075in;
+        padding-right: 0.075in;
+        padding-top: 0in;
+        padding-bottom: 5px;
+        border-width: 2px;
+        border-style: solid;
+        border-color: #ff3c00;
+        color: #00b809;
+      
+    }
+    
+    .Table3_A1 {
+        background-color: transparent;
+        padding-left: 0.075in;
+        padding-right: 0.075in;
+        padding-top: 0in;
+        padding-bottom: 5px;
+        border-width: 2px;
+        border-style: solid;
+        border-color: #7700ff;
+        color: #008b85;
+    }
+    
+    .Table4_A1 {
+        background-color: transparent;
+        padding: 10px 7px;
+        border-width: 2px;
+        color: #fff;
+        border: none;
+    }
+    .Table4_A1Select1{
+        display: flex;
+        align-items: center;
+        column-gap: 10px;
+        background-color: transparent;
+        padding: 10px 7px;
+        border-width: 2px;
+        border: none;
+        color: #532800;
+      
+    }
+    
+    .Table1_A {
+        width: 0.4049in;
+    }
+    
+    .Table1_B {
+        width: 1.4722in;
+    }
+    
+    .Table1_C {
+        width: 1in;
+    }
+    
+    .Table1_D {
+        width: 1.6347in;
+    }
+    
+    .Table1_E {
+        width: 1.2889in;
+    }
+    
+    .Table2_A {
+        width: 0.4931in;
+    }
+    
+    .Table2_B {
+        width: 0.9632in;
+    }
+    
+    .Table2_C {
+        width: 2.2347in;
+    }
+    
+    .Table2_D {
+        width: 1.3701in;
+    }
+    
+    .Table2_E {
+        width: 2.8847in;
+    }
+    
+    .Table3_A {
+        width: 0.3764in;
+    }
+    
+    .Table3_B {
+        width: 1.1146in;
+    }
+    
+    .Table3_C {
+        width: 2.0028in;
+    }
+    
+    .Table3_D {
+        width: 1.7132in;
+    }
+    
+    .Table3_E {
+        width: 1.5597in;
+    }
+    
+    .Table4_A {
+        width: 3.0125in;
+    }
+    
+    .Table4_B {
+        width: 1.5625in;
+    }
+    
+    .Table4_C {
+        width: 2.5625in;
+    }
+
+    .P1 {
+        font-size: 13px;
+        line-height: 100%;
+        margin-bottom: 0in;
+        margin-top: 0in;
+        font-family: 'Roboto', sans-serif;
+        writing-mode: horizontal-tb;
+        direction: ltr;
+    }
+    .P5 {
+        font-size: 13px;
+        line-height: 100%;
+        margin-bottom: 0in;
+        margin-top: 0.1665in;
+        text-align: justify ! important;
+        font-family: 'Roboto', sans-serif;
+        writing-mode: horizontal-tb;
+        direction: ltr;
+    }
+   
+    .Table4_A1Select1{
+        display: flex;
+        align-items: center;
+        column-gap: 10px;
+        flex-direction: column;
+        background-color: transparent;
+        padding: 40px 1px;
+        border-width: 2px;
+        border: none;
+        color: #532800;
+       
+        text-align:left;
+     
+      
+    }
+
+    .oohhh{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        column-gap: 10px;
+        background-color: transparent;
+        color: #532800;
+        
+    }
+
+    .Table4_A1Select2{
+        background-color: transparent;
+        padding: 10px 7px;
+        border-width: 2px;
+        border-style: solid;
+        border-color: #ff00dd;
+        border: none;
+        color: #532800;
+       
+    }
+    
+    .custom-select {
+        width: 140px;
+        position: relative;
+      }
+      .custom-select2nd,
+      .custom-select3rd,
+.custom-select4th{
+        width: 140px;
+        position: relative;
+      }
+     
+      
+      .custom-select::after,
+      .custom-select2nd::after,
+      .custom-select3rd::after,
+      .custom-select4th::after{
+        content: "\25BC"; /* Unicode for down-arrow symbol */
+        position: absolute;
+        top: 50%;
+        right: 10px;
+        transform: translateY(-50%);
+        font-size: 10px;
+        color: #252525;
+        pointer-events: none;
+      }
+      
+     
+      
+     
+      .custom-select1 {
+        width: 100%;
+        padding: 5px;
+        font-size: 11px;
+        border: none;
+        border-radius: 4px;
+        background-color: #d1d1d1;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        appearance: none;
+        outline: none;
+        cursor: pointer;
+      }
+      
+      .custom-select1:hover {
+        background-color: #a7a7a7;
+      }
+      
+      .custom-select1:focus {
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+      }
+      
+      .custom-select1 option {
+        background-color: #fff;
+        color: #333;
+      }
+      
+      .custom-select1 option:hover {
+        background-color: #f9f9f9;
+      }
+      #DifferenceBetweenClausesAndPhrases,
+      .Table2Oga,
+       .Table3Oga{
+        overflow-x: auto;
+    }
+    
+    .Table4Oga{
+    overflow:scroll;
+        height: 500px;
+    }
+
+    .Table4Oga::-webkit-scrollbar{
+        width: 3px;
+        height: 6px;
+        }
+    .Table1, 
+    .Table2,
+     .Table3,
+     .Table4{
+        width: 100%;
+    }
+   
+    .exampleClass{
+        background: rgb(240, 239, 239);
+        padding: 15px 10px;
+        width: auto;
+        border-left: 20px solid rgb(0, 216, 0);
+        border-radius: 20px;
+      }
+     .AsSomething{
+        background: rgb(240, 239, 239);
+        padding: 5px 5px;
+        width:auto;
+        border-left: 20px solid rgb(236, 114, 0);
+        border-radius: 20px;
+     }
+    
+  }
